@@ -1,0 +1,15 @@
+.spots {
+    background-image: url(../kiKogo5RT.jpg);
+    font-size: 80px;
+    letter-spacing: 1.2rem;
+    box-shadow: 0px 1px 4px 1px violet;
+}
+.bg-dark {
+    background-color: violet;
+}
+@media screen and (max-width: 768px) {
+    .spots {
+        letter-spacing: .4rem;
+        font-size: 64px;
+    }
+}
